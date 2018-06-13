@@ -1,3 +1,3 @@
-# Machine Learning 
-Convolutional Neural Network- image classification
-Regression models- simple regression, multiple variable regression
+# Convolutional Neural Network
+CNN for image classification, Dog and Teddy bear images are used as features are more variants
+Keras sequential model is used
